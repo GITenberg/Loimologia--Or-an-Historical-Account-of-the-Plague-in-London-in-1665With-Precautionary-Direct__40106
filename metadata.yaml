@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40415
     wikipedia: https://en.wikipedia.org/wiki/John_Quincy_%28medical_writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40106#Loimologia--Or-an-Historical-Account-of-the-Plague-in-London-in-1665With-Precautionary-Direct_
 gutenberg_issued: '2012-06-29'
 gutenberg_type: Text
 identifiers:
