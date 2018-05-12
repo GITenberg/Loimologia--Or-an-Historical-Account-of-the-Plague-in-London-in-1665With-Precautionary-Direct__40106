@@ -1,0 +1,36 @@
+_repo: Loimologia--Or-an-Historical-Account-of-the-Plague-in-London-in-1665With-Precautionary-Direct__40106
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40106-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Hodges, Nathaniel
+    aliases:
+    - Hodges, Nathanael
+    - Hodges, Nath. (Nathaniel)
+    birthdate: 1629
+    deathdate: 1688
+    gutenberg_agent_id: '40414'
+    url: http://www.gutenberg.org/2009/agents/40414
+  - agent_name: Quincy, John
+    deathdate: 1722
+    gutenberg_agent_id: '40415'
+    url: http://www.gutenberg.org/2009/agents/40415
+    wikipedia: https://en.wikipedia.org/wiki/John_Quincy_%28medical_writer%29
+description: ''
+gutenberg_issued: '2012-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Plague -- England -- London -- Early works to 1800'
+title: 'Loimologia: Or, an Historical Account of the Plague in London in 1665
+
+  With Precautionary Directions Against the Like Contagion'
+url: http://www.gutenberg.org/ebooks/40106
